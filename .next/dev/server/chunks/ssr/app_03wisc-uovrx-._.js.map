@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/app/not-found.module.css [app-rsc] (css module)"],"sourcesContent":["__turbopack_context__.v({\n  \"description\": \"not-found-module__sxuMuG__description\",\n  \"title\": \"not-found-module__sxuMuG__title\",\n});\n"],"names":[],"mappings":"AAAA;AACA;AACA;AACA"}},
+    {"offset": {"line": 11, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/PC-Myron/Documents/My%20projects/React.js%20+%20Next.js%20Hw/07-routing-nextjs/app/not-found.tsx"],"sourcesContent":["import css from \"./not-found.module.css\";\n\nexport default function NotFound() {\n  return (\n    <>\n      <h1 className={css.title}>404 - Page not found</h1>\n      <p className={css.description}>\n        Sorry, the page you are looking for does not exist.\n      </p>\n    </>\n  );\n}\n"],"names":["NotFound","className","title","description"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACtB,qBACE;;0BACE,8OAAC;gBAAGC,WAAW,0IAAG,CAACC,KAAK;0BAAE;;;;;;0BAC1B,8OAAC;gBAAED,WAAW,0IAAG,CAACE,WAAW;0BAAE;;;;;;;;;;;;AAKrC"}}]
+}
